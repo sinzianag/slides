@@ -10,3 +10,9 @@ These cover a variety of topics not necessarily following a patter but more my c
 ### Database
 
 * [NoSQL and MongoDB Introduction](https://github.com/sinzianag/slides/blob/master/NoSQL.pdf)
+
+
+### Apache Hadoop
+* [Apache Hive](https://github.com/sinzianag/slides/blob/master/Apache%20Hive.pdf)
+* [Apache Pig](https://github.com/sinzianag/slides/blob/master/Apache%20Pig.pdf)
+
