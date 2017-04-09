@@ -5,6 +5,7 @@ These cover a variety of topics not necessarily following a patter but more my c
 ### Docker
 
 * [Docker Introduction](https://github.com/sinzianag/slides/blob/master/Containers%20and%20Docker.pdf)
+* [Docker Basic Commands](https://github.com/sinzianag/slides/blob/master/Docker%20Basic%20Commands.pdf)
 
 
 ### Database
@@ -15,4 +16,5 @@ These cover a variety of topics not necessarily following a patter but more my c
 ### Apache Hadoop
 * [Apache Hive](https://github.com/sinzianag/slides/blob/master/Apache%20Hive.pdf)
 * [Apache Pig](https://github.com/sinzianag/slides/blob/master/Apache%20Pig.pdf)
+* [Hadoop Distributed File System](https://github.com/sinzianag/slides/blob/master/Hadoop%20Distributed%20File%20System.pdf)
 
